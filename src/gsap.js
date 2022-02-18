@@ -1,4 +1,4 @@
-import { gsap } from "gsap";
+import { gsapt } from "gsap";
 
 
 function Animation () {
