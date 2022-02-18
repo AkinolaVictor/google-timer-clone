@@ -1,4 +1,4 @@
-# hello-vue
+# Timer App
 
 ## Project setup
 ```
