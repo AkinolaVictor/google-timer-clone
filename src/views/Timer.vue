@@ -11,7 +11,7 @@
     <div @click="modalToggle" 
       :style="{'color': theme.time.text}"
       class="changeTime">
-      change countdown time
+      change time
     </div>
 
     <div v-if="modal" class="timeChange">
